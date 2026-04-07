@@ -1,6 +1,4 @@
-This is the companion document for the `exit_strategy` module. While the Risk Engine focuses on defense (what could go wrong), the Exit Strategy Engine is entirely about offense (how to maximize the "Harvest" phase of an investment).
 
----
 
 # 📑 Technical Specification: Exit Strategy Intelligence Engine
 
